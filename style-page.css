@@ -1,0 +1,72 @@
+body {
+margin: 0px;
+padding: 0px;
+background-color: black;
+}
+
+header {
+	background-color: black;
+	padding: 30px;
+	position: fixed;
+	margin: -20px auto;
+	width: 100%;
+}
+
+h1 {
+	padding: 10px;
+	color: white;
+	font-family: 'ash';
+	width: 23%;
+	display: block;
+	margin: auto;
+}
+
+h2 {
+	color: black;
+	font-family: 'ash';
+	width: 0%;
+	float: top;
+}
+
+a {
+	padding: 15px;
+}
+
+.bouton {
+	position: absolute;
+	top: 900px;
+	margin: 20px auto;
+	width: 100%;
+}
+
+.bouton2 {
+	position: absolute;
+	top: 50px;
+	margin: 20px auto;
+	width: 100%;
+}
+
+.butn {
+	padding: 5px;
+	border: 2px solid #ffff;
+
+	width: 30%;
+	display: block;
+	margin: auto;
+}
+
+.butn2 {
+	padding: 5px;
+	width: 30%;
+	display: block;
+	margin: auto;
+}
+
+.butn3 {
+	color: white;
+	font-family: "Bahnschrift";
+	padding: 5px;
+	width: 30%;
+	display: block;
+	margin: auto;
+}
